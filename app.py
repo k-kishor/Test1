@@ -6,3 +6,4 @@ Print(a*b)
 
 print(a)
 print(b)
+Print('this method help a lot')
